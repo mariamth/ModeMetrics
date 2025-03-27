@@ -29,7 +29,7 @@ const FashionList = () => {
 
     return (
         <div className="fashion-container">
-            <h2>ASOS Fashion Products</h2>
+            <h2>ASOS Shoe Products</h2>
             <div className="fashion-grid">
                 {products.map((product) => (
                     <FashionItem key={product.id} product={product} />
