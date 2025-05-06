@@ -1,0 +1,1673 @@
+
+[
+{
+  "model": "api.fashionitem",
+  "pk": 9727,
+  "fields": {
+    "product_id": "207733464",
+    "name": "Vans Old skool trainers in grey",
+    "price": 70.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9728,
+  "fields": {
+    "product_id": "207850963",
+    "name": "Crocs Juicy Couture 5 pack jibbitz",
+    "price": 20.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9729,
+  "fields": {
+    "product_id": "207851171",
+    "name": "Crocs x ASOS girl power 5 pack jibbitz pack",
+    "price": 18.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9730,
+  "fields": {
+    "product_id": "207917356",
+    "name": "Puma Easy rider vintage sneakers in archive green-rickie orange",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9731,
+  "fields": {
+    "product_id": "208307771",
+    "name": "Skechers Glide-step noxus trainer in black",
+    "price": 74.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9732,
+  "fields": {
+    "product_id": "208316770",
+    "name": "Puma Easy rider vintage sneakers in puma team royal-for all time r",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9733,
+  "fields": {
+    "product_id": "207832636",
+    "name": "ASOS DESIGN lace up trainers in brown",
+    "price": 38.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9734,
+  "fields": {
+    "product_id": "207801964",
+    "name": "ASOS DESIGN trainers in white with mesh panels",
+    "price": 40.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9735,
+  "fields": {
+    "product_id": "207471215",
+    "name": "New Balance 471 trainers in white and navy",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9736,
+  "fields": {
+    "product_id": "207471232",
+    "name": "New Balance 471 trainers in navy",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9737,
+  "fields": {
+    "product_id": "207801982",
+    "name": "ASOS DESIGN lace up trainers in stone mesh",
+    "price": 40.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9738,
+  "fields": {
+    "product_id": "207832700",
+    "name": "ASOS DESIGN fisherman tech sandals in black",
+    "price": 38.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9739,
+  "fields": {
+    "product_id": "207517354",
+    "name": "adidas Originals Tokyo trainers in green and yellow",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9740,
+  "fields": {
+    "product_id": "207517242",
+    "name": "adidas Originals Tokyo trainers in yellow and black",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9741,
+  "fields": {
+    "product_id": "207273987",
+    "name": "Walk London Brooklyn penny loafer in black leather",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9742,
+  "fields": {
+    "product_id": "207470306",
+    "name": "New Balance 530 trainers in white and light green",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9743,
+  "fields": {
+    "product_id": "207505375",
+    "name": "Nike Running Air Winflo 11 trainers in pink and lime",
+    "price": 99.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9744,
+  "fields": {
+    "product_id": "207517720",
+    "name": "adidas Originals Samba OG trainers in denim",
+    "price": 95.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9745,
+  "fields": {
+    "product_id": "207851154",
+    "name": "Crocs x ASOS beach vibes 5 pack jibbitz pack",
+    "price": 18.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9746,
+  "fields": {
+    "product_id": "207851275",
+    "name": "Crocs Silver I heart cowboys 5 pack jibbitz",
+    "price": 18.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9747,
+  "fields": {
+    "product_id": "208328099",
+    "name": "Polo Ralph Lauren Heritage Court Unisex trainer in white with gum sole and contrast tongue",
+    "price": 107.1,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9748,
+  "fields": {
+    "product_id": "208767627",
+    "name": "adidas Originals Gazelle spikeless golf shoes in grey and gold",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9749,
+  "fields": {
+    "product_id": "207444293",
+    "name": "ASOS DESIGN loafers in tan leather with weave",
+    "price": 43.2,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9750,
+  "fields": {
+    "product_id": "207641879",
+    "name": "VEJA V-10 trainer in extra white black",
+    "price": 121.5,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9751,
+  "fields": {
+    "product_id": "207733591",
+    "name": "Vans Authentic trainers in cheetah",
+    "price": 110.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9752,
+  "fields": {
+    "product_id": "207733733",
+    "name": "Vans Super lowpro trainers in yellow",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9753,
+  "fields": {
+    "product_id": "207777994",
+    "name": "Converse Chuck Taylor All Star Cruise Hi trainers in off-white",
+    "price": 72.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9754,
+  "fields": {
+    "product_id": "207785668",
+    "name": "ON Cloudsurfer Next running trainers in green",
+    "price": 140.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9755,
+  "fields": {
+    "product_id": "207789300",
+    "name": "New Balance 1906r trainers in grey",
+    "price": 126.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9756,
+  "fields": {
+    "product_id": "207789323",
+    "name": "New Balance 1906r trainers in beige",
+    "price": 126.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9757,
+  "fields": {
+    "product_id": "207801865",
+    "name": "ASOS DESIGN cross over strap sandals in tan leather",
+    "price": 34.2,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9758,
+  "fields": {
+    "product_id": "208059835",
+    "name": "Vans Old Skool trainers in black leopard print",
+    "price": 67.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9759,
+  "fields": {
+    "product_id": "208319306",
+    "name": "ON The Roger Advantage trainers in white and mint",
+    "price": 117.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9760,
+  "fields": {
+    "product_id": "208769913",
+    "name": "adidas Originals Gazelle spikeless golf shoes in green",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9761,
+  "fields": {
+    "product_id": "208770507",
+    "name": "adidas Originals Gazelle spikeless golf shoes in clear sky",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9762,
+  "fields": {
+    "product_id": "207732999",
+    "name": "Vans Authentic trainers in cow print",
+    "price": 110.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9763,
+  "fields": {
+    "product_id": "207745024",
+    "name": "ASOS DESIGN loafers in khaki suede with tassel",
+    "price": 41.4,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9764,
+  "fields": {
+    "product_id": "208060550",
+    "name": "Vans Classic Slip-On trainers in black leopard print",
+    "price": 58.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9765,
+  "fields": {
+    "product_id": "207497159",
+    "name": "Nike Air Max 90 unisex trainers in white and red",
+    "price": 121.49,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9766,
+  "fields": {
+    "product_id": "207744966",
+    "name": "ASOS DESIGN loafers in black with natural weave",
+    "price": 39.6,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9767,
+  "fields": {
+    "product_id": "207745014",
+    "name": "ASOS DESIGN two strap sandals in grey with cork sole",
+    "price": 25.2,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9768,
+  "fields": {
+    "product_id": "207745148",
+    "name": "ASOS DESIGN mule clog sandals in tan with cork sole",
+    "price": 27.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9769,
+  "fields": {
+    "product_id": "207832752",
+    "name": "ASOS DESIGN mule weave loafers in tan",
+    "price": 37.8,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9770,
+  "fields": {
+    "product_id": "207273968",
+    "name": "Walk London Tino tassel loafer in black leather",
+    "price": 72.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9771,
+  "fields": {
+    "product_id": "207473077",
+    "name": "Puma Army trainers in cream & red",
+    "price": 67.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9772,
+  "fields": {
+    "product_id": "207473208",
+    "name": "Puma Indoor trainers in white & green",
+    "price": 72.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9773,
+  "fields": {
+    "product_id": "207496122",
+    "name": "Nike Training Free Metcon 6 trainers in blue",
+    "price": 107.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9774,
+  "fields": {
+    "product_id": "208584479",
+    "name": "Puma Speedcat og sneakers in alpine snow-puma white",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9775,
+  "fields": {
+    "product_id": "207049982",
+    "name": "Nike Air Max 1 premium trainers in cream",
+    "price": 130.49,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9776,
+  "fields": {
+    "product_id": "207273846",
+    "name": "Walk London Sean tassel loafer in stone suede",
+    "price": 72.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9777,
+  "fields": {
+    "product_id": "207273871",
+    "name": "Walk London Sean trim loafer in black leather",
+    "price": 72.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9778,
+  "fields": {
+    "product_id": "207473138",
+    "name": "Puma Army trainers in white & olive",
+    "price": 67.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9779,
+  "fields": {
+    "product_id": "207489164",
+    "name": "Nike Air Max SNDR unisex trainers in white and black",
+    "price": 148.49,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9780,
+  "fields": {
+    "product_id": "207766566",
+    "name": "Jack & Jones real leather strap sandal in black",
+    "price": 34.2,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9781,
+  "fields": {
+    "product_id": "208426324",
+    "name": "Jack & Jones strap sandal in cream",
+    "price": 16.2,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9782,
+  "fields": {
+    "product_id": "208584477",
+    "name": "Puma Speedcat leather sneakers in puma white-puma black",
+    "price": 90.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9783,
+  "fields": {
+    "product_id": "208782501",
+    "name": "Converse Run star trainer suede in coastal dune/sugar berry/egret",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9784,
+  "fields": {
+    "product_id": "208798563",
+    "name": "Converse Chuck taylor all star snakeskin print in foothill green/egret/black",
+    "price": 70.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9785,
+  "fields": {
+    "product_id": "207050654",
+    "name": "Nike SB Zoom Pogo plus trainers in white and navy",
+    "price": 71.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9786,
+  "fields": {
+    "product_id": "207690251",
+    "name": "Asics GT-2000 13 Lite-Show running trainers in lite-show and light blue",
+    "price": 140.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9787,
+  "fields": {
+    "product_id": "207690507",
+    "name": "Asics Gel-Cumulus 27 running trainers in black and coral reef",
+    "price": 126.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9788,
+  "fields": {
+    "product_id": "207691259",
+    "name": "Asics GT-2160 trainers in white and mint tint",
+    "price": 125.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9789,
+  "fields": {
+    "product_id": "207691299",
+    "name": "Asics Gel-Nunobiki trainers in dark taupe and pure silver",
+    "price": 105.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9790,
+  "fields": {
+    "product_id": "208046539",
+    "name": "Clarks Torhill lo shoes in golden tan suede",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9791,
+  "fields": {
+    "product_id": "208046618",
+    "name": "Clarks Torhill lo shoes in ecru suede",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9792,
+  "fields": {
+    "product_id": "208368431",
+    "name": "Clarks Torhill lo shoe in dark sand suede",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9793,
+  "fields": {
+    "product_id": "208368439",
+    "name": "Clarks Torhill suede Lo shoe in dark olive",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9794,
+  "fields": {
+    "product_id": "208368479",
+    "name": "Clarks Wallabe evo shoe in dark olive suede",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9795,
+  "fields": {
+    "product_id": "208612763",
+    "name": "Superdry Core logo flip flops in rich navy tonal",
+    "price": 19.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9796,
+  "fields": {
+    "product_id": "207334062",
+    "name": "Converse Chuck 70 Hi Wide Fit trainers in black",
+    "price": 76.5,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9797,
+  "fields": {
+    "product_id": "207473177",
+    "name": "Puma Indoor trainers in white & blue",
+    "price": 72.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9798,
+  "fields": {
+    "product_id": "207496874",
+    "name": "Nike Air Max TL 2.5 trainers in white and navy",
+    "price": 164.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9799,
+  "fields": {
+    "product_id": "207497940",
+    "name": "Nike SB Chron 2 trainers in white",
+    "price": 58.49,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9800,
+  "fields": {
+    "product_id": "207752996",
+    "name": "Calvin Klein Jeans large logo sliders in black",
+    "price": 36.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9801,
+  "fields": {
+    "product_id": "207785887",
+    "name": "ON Cloudmonster running trainers in white and grey",
+    "price": 160.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9802,
+  "fields": {
+    "product_id": "207785932",
+    "name": "ON Cloudswift 4 running trainers in white",
+    "price": 150.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9803,
+  "fields": {
+    "product_id": "207786938",
+    "name": "ON Cloud 6 all day trainers in black",
+    "price": 140.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9804,
+  "fields": {
+    "product_id": "208044492",
+    "name": "Noak made in Portugal tassel loafers in black leather",
+    "price": 76.5,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9805,
+  "fields": {
+    "product_id": "208044523",
+    "name": "Noak made in Portugal loafers in black leather with geometric design",
+    "price": 76.5,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9806,
+  "fields": {
+    "product_id": "208045318",
+    "name": "Noak made in Portugal apron lace up shoes in brown leather",
+    "price": 81.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9807,
+  "fields": {
+    "product_id": "208046625",
+    "name": "Clarks Torhill lo shoes in red suede",
+    "price": 100.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9808,
+  "fields": {
+    "product_id": "208262729",
+    "name": "Tommy Hilfiger essential court leather trainers in white and navy",
+    "price": 81.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9809,
+  "fields": {
+    "product_id": "208532965",
+    "name": "AllSaints Regan leather low top trainers in white and grey",
+    "price": 134.1,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9810,
+  "fields": {
+    "product_id": "208532982",
+    "name": "AllSaints Dune rubber sliders in black",
+    "price": 71.1,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9811,
+  "fields": {
+    "product_id": "208594482",
+    "name": "Superdry Core graphic pool sliders in drop kick red",
+    "price": 22.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9812,
+  "fields": {
+    "product_id": "207505654",
+    "name": "Nike Running Air Zoom Pegasus 41 trainers in grey",
+    "price": 116.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9813,
+  "fields": {
+    "product_id": "207786692",
+    "name": "ON Cloudhorizon running trainers in blue",
+    "price": 144.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9814,
+  "fields": {
+    "product_id": "207273907",
+    "name": "Walk London Putney tassel loafer in black leather",
+    "price": 72.25,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9815,
+  "fields": {
+    "product_id": "207463957",
+    "name": "Armani Exchange trainers with gumsole in off white",
+    "price": 165.75,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9816,
+  "fields": {
+    "product_id": "207497356",
+    "name": "Nike P-6000 unisex trainers in white and silver",
+    "price": 84.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9817,
+  "fields": {
+    "product_id": "207497694",
+    "name": "Nike P-6000 unisex trainers in blue and metallic silver",
+    "price": 84.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9818,
+  "fields": {
+    "product_id": "207497731",
+    "name": "Nike Air Zoom Spiridon Cage 2 trainers in red",
+    "price": 131.74,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9819,
+  "fields": {
+    "product_id": "207505410",
+    "name": "Nike Running Downshifter 13 trainers in grey and blue",
+    "price": 55.24,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9820,
+  "fields": {
+    "product_id": "207505470",
+    "name": "Nike Running Reactx Pegasus Trail 5 Gore-TEX trainers in yellow",
+    "price": 123.24,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9821,
+  "fields": {
+    "product_id": "207505549",
+    "name": "Nike Running Air Zoom Pegasus 41 trainers in green",
+    "price": 129.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9822,
+  "fields": {
+    "product_id": "207517722",
+    "name": "adidas Originals SL 72 RS trainers in light blue",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9823,
+  "fields": {
+    "product_id": "207559505",
+    "name": "Armani EA7 gold logo beach slides in black",
+    "price": 40.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9824,
+  "fields": {
+    "product_id": "207690136",
+    "name": "Asics Gel-Nimbus 27 Lite-Show running trainers in lite-show and light orange",
+    "price": 180.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9825,
+  "fields": {
+    "product_id": "207690405",
+    "name": "Asics GT-2000 13 running trainers in pure aqua and white",
+    "price": 140.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9826,
+  "fields": {
+    "product_id": "207758983",
+    "name": "Tommy Hilfiger basket trainers with perforated details in white",
+    "price": 76.5,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9827,
+  "fields": {
+    "product_id": "207785670",
+    "name": "ON Cloudnova X training trainers in blue",
+    "price": 135.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9828,
+  "fields": {
+    "product_id": "207786866",
+    "name": "ON Cloudhorizon running trainers in grey",
+    "price": 160.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9829,
+  "fields": {
+    "product_id": "207796273",
+    "name": "Tommy Jeans sliders in navy",
+    "price": 38.25,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9830,
+  "fields": {
+    "product_id": "207833234",
+    "name": "Merrell Agility Peak 5 in beige and grey",
+    "price": 140.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9831,
+  "fields": {
+    "product_id": "207842008",
+    "name": "Armani Exchange chunky logo trainers in off white and beige",
+    "price": 136.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9832,
+  "fields": {
+    "product_id": "208498870",
+    "name": "Dune London Tezzy trainers shoe in tan",
+    "price": 79.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9833,
+  "fields": {
+    "product_id": "208734461",
+    "name": "New Balance Fresh foam x hierro v9 trainers in electric jade",
+    "price": 140.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9834,
+  "fields": {
+    "product_id": "207273727",
+    "name": "Walk London Sean tassel loafer in brown suede",
+    "price": 68.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9835,
+  "fields": {
+    "product_id": "207273897",
+    "name": "Walk London Capri saddle loafer in brown leather",
+    "price": 63.75,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9836,
+  "fields": {
+    "product_id": "207496499",
+    "name": "Nike Training Air Max Alpha 6 trainers in light grey",
+    "price": 67.99,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9837,
+  "fields": {
+    "product_id": "207496824",
+    "name": "Nike Air Force 1 trainers in white and blue",
+    "price": 93.49,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9838,
+  "fields": {
+    "product_id": "207525810",
+    "name": "ASOS DESIGN gladiator sandals in brown leather",
+    "price": 32.3,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9839,
+  "fields": {
+    "product_id": "207759440",
+    "name": "Tommy Hilfiger cross leather sandals in black",
+    "price": 76.5,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9840,
+  "fields": {
+    "product_id": "207768284",
+    "name": "Converse Chuck Taylor All Star Ox trainers in sunflower yellow",
+    "price": 51.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9841,
+  "fields": {
+    "product_id": "207795798",
+    "name": "Tommy Jeans flip flop in black",
+    "price": 25.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9842,
+  "fields": {
+    "product_id": "208202664",
+    "name": "The North Face Base camp ii flip-flops in oli",
+    "price": 35.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9843,
+  "fields": {
+    "product_id": "208476515",
+    "name": "Mango classic loafer in black",
+    "price": 89.99,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9844,
+  "fields": {
+    "product_id": "208698848",
+    "name": "New Balance Fresh foam 680v7 trainers in black",
+    "price": 50.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9845,
+  "fields": {
+    "product_id": "208711277",
+    "name": "New Balance Fresh foam 680v7 trainers in marine blue",
+    "price": 50.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9846,
+  "fields": {
+    "product_id": "208743971",
+    "name": "Converse Chuck taylor all star in blue supermoon",
+    "price": 65.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9847,
+  "fields": {
+    "product_id": "208744008",
+    "name": "Converse Chuck taylor all star in light saddle",
+    "price": 65.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9848,
+  "fields": {
+    "product_id": "208744142",
+    "name": "Converse Chuck taylor all star cruise in you dew you/egret/black",
+    "price": 75.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9849,
+  "fields": {
+    "product_id": "207195763",
+    "name": "adidas Originals Tokyo trainers in black and white",
+    "price": 85.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9850,
+  "fields": {
+    "product_id": "207412988",
+    "name": "Converse Chuck 70 Ox trainers in brown",
+    "price": 68.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9851,
+  "fields": {
+    "product_id": "207496825",
+    "name": "Nike Air Max 90 trainers in blue and coral",
+    "price": 114.74,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9852,
+  "fields": {
+    "product_id": "207737834",
+    "name": "schuh Riggs loafers in tan suede",
+    "price": 46.75,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9853,
+  "fields": {
+    "product_id": "207738010",
+    "name": "schuh Riggs loafers in blue suede",
+    "price": 46.75,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9854,
+  "fields": {
+    "product_id": "208526674",
+    "name": "New Balance New balance 610xv1 trainers in brown",
+    "price": 155.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9855,
+  "fields": {
+    "product_id": "208711320",
+    "name": "New Balance 340 flip flop in brown",
+    "price": 28.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9856,
+  "fields": {
+    "product_id": "208744028",
+    "name": "Converse Chuck taylor all star in blue supermoon",
+    "price": 60.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9857,
+  "fields": {
+    "product_id": "208744434",
+    "name": "Converse Chuck taylor all star in light saddle",
+    "price": 60.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9858,
+  "fields": {
+    "product_id": "208095857",
+    "name": "Vans Authentic premium 44 in black/marshmallow",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9859,
+  "fields": {
+    "product_id": "208095882",
+    "name": "Vans Authentic premium 44 trainers in white/green",
+    "price": 75.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9860,
+  "fields": {
+    "product_id": "208095941",
+    "name": "Vans Authentic premium 44 in sepia rose",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9861,
+  "fields": {
+    "product_id": "208095951",
+    "name": "Vans Authentic premium 44 in white and blue",
+    "price": 75.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9862,
+  "fields": {
+    "product_id": "208095964",
+    "name": "Vans Authentic premium 44 trainers in asphalt",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9863,
+  "fields": {
+    "product_id": "208096014",
+    "name": "Vans Authentic premium 44 in white/black",
+    "price": 75.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9864,
+  "fields": {
+    "product_id": "208096027",
+    "name": "Vans Authentic premium 44 in heritage blue",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9865,
+  "fields": {
+    "product_id": "208096066",
+    "name": "Vans Authentic premium 44 trainers in blue",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9866,
+  "fields": {
+    "product_id": "208096507",
+    "name": "Vans Authentic premium 44 in fairway",
+    "price": 80.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9867,
+  "fields": {
+    "product_id": "208096616",
+    "name": "Vans Authentic premium 44 in white/red",
+    "price": 75.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9868,
+  "fields": {
+    "product_id": "207690311",
+    "name": "Asics Gel-Cumulus 27 running trainers in wave teal and illuminate mint",
+    "price": 126.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9869,
+  "fields": {
+    "product_id": "207228030",
+    "name": "ASOS DESIGN loafers in black with gold chain",
+    "price": 22.8,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9870,
+  "fields": {
+    "product_id": "207228080",
+    "name": "ASOS DESIGN lace up shoes in brown with chunky sole",
+    "price": 22.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9871,
+  "fields": {
+    "product_id": "207388244",
+    "name": "ASOS DESIGN penny loafer in light grey",
+    "price": 26.6,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9872,
+  "fields": {
+    "product_id": "207419983",
+    "name": "ASOS DESIGN two strap sandals in black with cork sole",
+    "price": 22.4,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9873,
+  "fields": {
+    "product_id": "207388164",
+    "name": "ASOS DESIGN loafers in black with weave apron",
+    "price": 22.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9874,
+  "fields": {
+    "product_id": "207388184",
+    "name": "ASOS DESIGN loafers in brown with tassel",
+    "price": 37.8,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9875,
+  "fields": {
+    "product_id": "207391405",
+    "name": "ASOS DESIGN retro trainers in beige",
+    "price": 24.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9876,
+  "fields": {
+    "product_id": "207377053",
+    "name": "ASOS DESIGN cross over strap sandals in tan",
+    "price": 17.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9877,
+  "fields": {
+    "product_id": "207981679",
+    "name": "ASOS DESIGN penny loafers in black",
+    "price": 42.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9878,
+  "fields": {
+    "product_id": "207981699",
+    "name": "ASOS DESIGN penny loafers in tan",
+    "price": 26.6,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9879,
+  "fields": {
+    "product_id": "207228139",
+    "name": "ASOS DESIGN penny loafers in beige",
+    "price": 28.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9880,
+  "fields": {
+    "product_id": "207228236",
+    "name": "ASOS DESIGN loafers in brown with weave detail",
+    "price": 19.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9881,
+  "fields": {
+    "product_id": "207388225",
+    "name": "ASOS DESIGN loafers in natural weave",
+    "price": 30.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9882,
+  "fields": {
+    "product_id": "207418740",
+    "name": "ASOS DESIGN loafers in stone suede with tassel",
+    "price": 46.0,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9883,
+  "fields": {
+    "product_id": "207419717",
+    "name": "ASOS DESIGN mule loafers in tan weave",
+    "price": 28.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9884,
+  "fields": {
+    "product_id": "207419744",
+    "name": "ASOS DESIGN penny loafers in black with fringing",
+    "price": 25.2,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9885,
+  "fields": {
+    "product_id": "207228169",
+    "name": "ASOS DESIGN embossed loafers in olive green",
+    "price": 38.25,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9886,
+  "fields": {
+    "product_id": "207690175",
+    "name": "Asics Gel-Nimbus 27 running trainers in illusion blue and indigo blue",
+    "price": 162.0,
+    "is_trendy": true
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9887,
+  "fields": {
+    "product_id": "207297000",
+    "name": "ASOS DESIGN derby lace up shoes in tan leather",
+    "price": 40.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9888,
+  "fields": {
+    "product_id": "207393979",
+    "name": "ASOS DESIGN lace up oxford shoes in brown leather with brogue detailing",
+    "price": 36.4,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9889,
+  "fields": {
+    "product_id": "207249303",
+    "name": "ASOS DESIGN loafers in stone suede with tassel",
+    "price": 46.8,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9890,
+  "fields": {
+    "product_id": "207228040",
+    "name": "ASOS DESIGN square toe loafers in brown with tassel",
+    "price": 22.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9891,
+  "fields": {
+    "product_id": "207296970",
+    "name": "ASOS DESIGN derby lace up shoes in black leather",
+    "price": 22.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9892,
+  "fields": {
+    "product_id": "206766125",
+    "name": "Asics Gt-2160 trainers in white silver and yellow",
+    "price": 62.5,
+    "is_trendy": false
+  }
+},
+{
+  "model": "api.fashionitem",
+  "pk": 9893,
+  "fields": {
+    "product_id": "206864709",
+    "name": "ON Cloudsurfer Next running trainers in triple black",
+    "price": 140.0,
+    "is_trendy": true
+  }
+}
+]

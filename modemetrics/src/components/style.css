@@ -1,0 +1,48 @@
+/* header styling*/
+.header {
+    width: 100%;
+    background: #9d8f7f;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.7% 3%;
+    height: 3.2rem;
+    min-height: 3.2rem;
+    box-sizing: border-box;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    width: 2.2rem;
+    height: 2.2rem;
+    display: block;
+    border-radius: 50%;
+    background: #9d8f7f;
+}
+
+.header-right {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #222;
+    letter-spacing: 0;
+}
+
+/* footer styling */
+.footer {
+    background-color: #9d8f7f;
+    color: #222;
+    text-align: center;
+    padding: 14px 0;
+    width: 100%;
+    font-weight: 600;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+}
+
+.footer p {
+    margin: 0;
+}

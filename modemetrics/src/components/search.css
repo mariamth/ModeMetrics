@@ -1,0 +1,96 @@
+.search-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 8%;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    background: #6e867b;
+    border-radius: 2.5rem;
+    padding: 0 1.5rem;
+    width: 90%;
+    max-width: 28rem;    
+    min-width: 10rem;      
+    height: 3rem;       
+    margin-bottom: 1.25rem;
+    box-shadow: 0 0.125rem 0.5rem rgba(40,50,45,0.03);
+}
+
+.search-bar input {
+    border: none;
+    background: transparent;
+    font-size: 1.1rem;
+    flex: 1;
+    outline: none;
+    color: #fff;
+    min-width: 0;
+    padding: 0.2rem 0;
+}
+
+.search-btn {
+    margin-top: 0.2rem;
+    background: #6e867b;
+    color: #fff;
+    font-size: 1.05rem;
+    border: none;
+    border-radius: 0.6rem;
+    padding: 5%;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.verdict-container {
+    background: #f7faf8;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    padding: 1.5rem 2.5rem;
+    box-shadow: 0 0.125rem 0.625rem rgba(110,134,123,0.06);
+    text-align: center;
+}
+
+.verdict-title {
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.verdict-main {
+    font-size: 2rem;
+    margin: 2rem 0 1rem 0;
+}
+
+.verdict-trend {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.verdict-advice {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.back-btn {
+    margin-top: 2rem;
+    padding: 2%;
+}
+
+@media (max-width: 600px) {
+    .search-bar {
+      max-width: 98vw;
+      padding: 0 0.8rem;
+      height: 2.5rem;
+    }
+    .search-bar input {
+      font-size: 1rem;
+    }
+    .verdict-main {
+      font-size: 1.3rem;
+    }
+    .verdict-trend {
+      font-size: 1rem;
+    }
+}

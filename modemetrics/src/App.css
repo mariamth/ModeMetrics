@@ -1,0 +1,65 @@
+/* CSS file for the main App component */
+
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* main body styling */
+.main-page {
+  flex: 1; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+}
+
+/* text and container styling */
+.welcome-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-bottom: 40px;
+  width: 100%;
+  max-width: 900px;
+}
+
+.headline h1 {
+  padding-top: 20%;
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.description {
+  padding-top: 5%;
+  margin-left: 40px;
+  margin-top: 24px;
+  font-size: 1.5rem;
+  max-width: 400px;
+  color: #000000;
+}
+
+/* ensuring responsive design */
+
+@media (max-width: 700px) {
+  .welcome-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 900px;
+    
+  }
+  
+  .description {
+    margin-left: 0;
+    margin-top: 24px;
+    font-size: 1.1rem;
+  }
+}
